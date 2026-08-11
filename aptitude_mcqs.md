@@ -1,6 +1,6 @@
-# Aptitude & Logical Reasoning - Crestron SDET Prep
+# Aptitude & Logical Reasoning - Online Assessment Test Prep
 
-This document contains a comprehensive set of multiple-choice questions designed to help you prepare for the aptitude and logical reasoning sections of the Crestron SDET interview process.
+This document contains a comprehensive set of multiple-choice questions designed to help you prepare for the aptitude and logical reasoning sections of the Online Assessment Test process.
 
 ## SECTION 1: QUANTITATIVE APTITUDE (25 questions)
 
