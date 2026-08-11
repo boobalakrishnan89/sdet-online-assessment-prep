@@ -1,4 +1,4 @@
-# Crestron SDET Coding Test Preparation
+# Online Assessment Test preparation
 
 This document contains 40 coding problems with comprehensive solutions in Java and Python.
 
