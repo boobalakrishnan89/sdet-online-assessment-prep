@@ -1,6 +1,6 @@
-# 🎯 Crestron SDET Coding Test - Complete Preparation Guide
+# 🎯 Online Assessment Test - Complete Preparation Guide
 
-Comprehensive Q&A preparation material for the **Crestron Software Development India Pvt. Ltd. - SDET Coding Test** conducted on the **Codejudge** platform.
+Comprehensive Q&A preparation material for the **Online Assessment Test** conducted on the **Codejudge** platform.
 
 ## 📁 Contents
 
@@ -16,7 +16,7 @@ Comprehensive Q&A preparation material for the **Crestron Software Development I
 
 | Parameter | Details |
 |-----------|---------|
-| **Company** | Crestron Software Development India Pvt. Ltd. |
+| **Company** | Online Assessment Test |
 | **Role** | SDET (Software Development Engineer in Test) |
 | **Platform** | Codejudge |
 | **Duration** | 90 Minutes |
